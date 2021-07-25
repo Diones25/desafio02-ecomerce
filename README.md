@@ -3,7 +3,7 @@ Desafio 2# - Gestão de Cadastros
 2° Entrega - Gestão de Cadastros
 Criação de um sistema e-commerce para inventário de produtos e dados de clientes:
 
-*funcionalidades no javascript
+*Funcionalidades no javascript
 
     -salvar os dados de clientes
 
@@ -11,13 +11,13 @@ Criação de um sistema e-commerce para inventário de produtos e dados de clien
 
     -listar clientes e produtos por meio de uma tabela
 
--front end 
+-Front end 
 
     -html
     -bootstrap
     
 
--back-end
+-Back-end
 
     -javascript
     
